@@ -41,10 +41,10 @@ public class School {
      clean_screen();
  }
  static void show_list() {
-        print("1- Add Data  St :");
-        print("2- Show Data St : ");
-        print("3- search about St : ");
-        print("4- update data St : ");
+        print("1- Add Data  Student :");
+        print("2- Show Data Student : ");
+        print("3- search about Student : ");
+        print("4- update data Student : ");
         print("5- Exit : "+ "\n");
     }
  static void add_data(){
